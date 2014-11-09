@@ -1,3 +1,10 @@
+## ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+## Bluetooth Searcher for searching for nearby 
+## bluetooth devices using the device name, LEDs
+## will flash dependant on if the device is found
+## written by domjacko
+## ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 import bluetooth
 import RPi.GPIO as GPIO
 import time
