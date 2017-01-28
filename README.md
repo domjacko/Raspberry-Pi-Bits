@@ -16,7 +16,6 @@ To use this program you will need:
 
 You will also need to ensure the `RPi.GPIO` Python package is installed as well as the `bluez` bluetooth manager and the `python-bluez` package.
 
-Here is my [blog post](http://domjacko.wordpress.com/2014/08/05/bluetooth-phone-searcher-with-leds/) about the program.
 
 ## Chaser LED
 
@@ -26,8 +25,6 @@ To use this program you will need:
 
   * Raspberry Pi
   * Breadboard, Jumper Wires, 5 x Resistors and 5 x LED's
-
-Here is my [blog post](https://domjacko.wordpress.com/2014/08/12/rpi-led-chaser/) about the program.
 
 ## Alt LED
 
